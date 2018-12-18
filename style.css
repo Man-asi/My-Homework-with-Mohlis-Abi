@@ -1,0 +1,41 @@
+body {
+    background: url(the-background-292720.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    
+    font-weight: normal;
+    font-size: 22px;
+    
+    
+}
+main {
+    background-color: #ffffff;
+    padding: 40px;
+    margin: 100px auto;
+    width: 562px;
+    box-shadow: 20px 20px 50px #0505052b;
+    border-left: rgba(35, 104, 189, 0.76);
+    border-left-width: 5px;
+    border-left-style: solid
+}
+main nav a {
+    text-decoration: none;
+    color: gray;
+}
+main nav a img {
+height: 1.2em;
+vertical-align: text-bottom;
+
+}
+button {
+    background-color: #3aa4fa;
+    color: white;
+    border: 0 none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-transform: uppercase;
+
+}
